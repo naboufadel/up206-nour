@@ -5,7 +5,7 @@ Hello, my name is Nour Aboufadel and I'm a first year in the MURP/MPH dual degre
 
 
 ## Goals/Objecives for class
-I'm familiar with the basiscs of GIS, through ESRI, and so I would like to learn more about GIS and Spatial Analysis through other mediums. Through this class, I hope to learn more about coding and how I can use that in spatial analysis. I would also like to learn how to effectively convey urban planning and public health topics through GIS in a way that is accessible to everyone. 
+I'm familiar with the basiscs of GIS, through ESRI, but I would like to learn more about GIS and Spatial Analysis through other mediums. Through this class, I hope to learn more about coding and how I can use that in spatial analysis. I would also like to learn how to effectively convey urban planning and public health topics through GIS in a way that is accessible to everyone. 
 
 ## Project Ideas
 I don't have any specific project in mind. I think I would be able to narrow my search the more I learn about the class and my capabilities through coding, but so far I'm interested in: 
