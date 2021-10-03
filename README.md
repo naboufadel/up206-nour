@@ -9,5 +9,5 @@ I'm familiar with the basiscs of GIS, through ESRI, but I would like to learn mo
 
 ## Project Ideas
 I don't have any specific project in mind. I think I would be able to narrow my search the more I learn about the class and my capabilities through coding, but so far I'm interested in: 
-- Identifying sources of environmental pollution and the communities that are at higher risk of illnesses due to exposure.
+- Identifying sources of environmental pollution and communities that are at higher risk of illnesses due to exposure.
 - Prevalence of certain diseases in a community over time and possible sources. 
