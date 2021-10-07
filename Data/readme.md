@@ -1,1 +1,8 @@
 
+# Data
+
+My first dataset looks at the Los Angeles County City and Community Health Profiles in 2018. This includes 'health indicators' such as demographics, social, economic, and health characteristics of 86 cities and communities in LA County. These indicators impact public health and I wanted to save this data set as a reference when I look at exposures and community health for various cities within LA County and be able to make a comparison with other cities that have better "health indicator" characteristics. https://data.lacounty.gov/Health/Los-Angeles-County-City-and-Community-Health-Profi/capb-kusk
+
+Second dataset is a map looking at the cancer risk per 1 million in LA County as it relates to Air Toxins. I see air pollution and exposure to air toxins throughout LA County as a possible source that I might use when lookign at the impact of environmental exposures to public health. I would like to look further into this field and see how I can include urban planning data in the future. https://data.lacounty.gov/Sustainability/MATES-IV-Air-Toxics-Cancer-Risk/g6q2-8h4f
+
+Third dataset looks at adult ages 18+ diagnosed by asthma in the years 2013-2014, by zip code. If I end up choosing air pollution as my environmental exposure for the project, I would be able to use this dataset and compare it with another map/ dataset showing the source of the toxin/pollutants. I can also use this to compare it with my first dataset of community profiles in LA County when looking at environmental justice and public health. https://geohub.lacity.org/datasets/ladot::prevalence-of-adult-asthma-2013-2014/about
